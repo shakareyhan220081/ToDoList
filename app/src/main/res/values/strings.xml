@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="hint_task">Tulis tugas… (bug: input kosong tidak divalidasi)</string>
+    <string name="button_add">Tambah (bug: simpan apa pun)</string>
+    <string name="button_hapus">Hapus</string>
+</resources>
